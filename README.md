@@ -1,5 +1,8 @@
 # Fractal BitCoin Node Installsations Guide
 
+<p align="center">
+<img src='Tokenomics.jpg' style="width:800px;height:500px;">
+</p>
 
 
 ## System Requirements
@@ -19,11 +22,19 @@ wget -q https://raw.githubusercontent.com/BidyutRoy2/Fractal-Bitcion/main/fracta
 
 ## 2. Save Your Node Private Key in NotePad
 
+<p align="center">
+<img src='Privatekey.jpg' style="width:800px;height:300px;">
+</p>
+
 ### 3. Checking the Logs Once the installation is complete, you can monitor the node's logs at any time:
 
 ```bash
 sudo journalctl -u fractald -f --no-hostname -o cat
 ```
+
+<p align="center">
+<img src='GWjJW4KWAAAdxZo.png' style="width:800px;height:300px;">
+</p>
 
 This command will show you live logs, helping you keep an eye on your node's performance and status.
 
