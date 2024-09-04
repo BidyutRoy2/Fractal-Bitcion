@@ -1,4 +1,4 @@
-# Fractal BitCoin Node Installsations Guide
+# Fractal BitCoin Node installations Guide
 
 <p align="center">
 <img src='Tokenomics.jpg' style="width:800px;height:500px;">
@@ -14,7 +14,7 @@
 | **Disk Space** | 100 GB free disk space    | 200 GB+ free disk space (SSD) |
 | **Operating System** | Ubuntu 22.04       | Ubuntu 22.04                 |
 
-## 1. Run Node Installations 1 Command
+## 1. Run Node installations By 1 Command
 
 ```bash
 wget -q https://raw.githubusercontent.com/BidyutRoy2/Fractal-Bitcion/main/fractald_installer.sh && chmod +x fractald_installer.sh && ./fractald_installer.sh
